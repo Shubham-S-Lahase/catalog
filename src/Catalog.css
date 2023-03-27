@@ -1,0 +1,25 @@
+.container{
+ width: 100%;
+ height: 100vh;
+background-color: #ffffff;
+}
+.container h1{
+    text-align: center;
+}
+.srcfilter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 40px;
+}
+.srcfilter span{
+    font-size: larger;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.tablecont{
+    width: 100%;
+}
+.tablecont table{
+    margin: 0 auto;
+}
